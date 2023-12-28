@@ -1,9 +1,15 @@
 ![Untitled design](https://res.cloudinary.com/kondanganyuk-com/image/upload/v1703732358/submission_dicoding_membuat_web_ghpaom.png)
 
-Ini adalah tugas submission course dicoding Belajar Dasar Pemrograman Web. tugas adalah membuat sebuah website dengan persyaratan sebagai berikut :
+submission : Aplikasi Pengelolaan Data Menggunakan DOM dan Web Storage
 
-1. Terdapat elemen Header, Footer, Main, Article, dan Aside.
-2. Masing-masing elemen wajib berisi konten yang peruntukkannya sesuai dengan elemen tersebut (menerapkan konsep semantic HTML dalam menyusun struktur website).
-Sebagai contoh: Header berisi judul dan navigation.
-3. Menampilkan identitas diri (biodata diri) yang minimal harus berisi foto asli diri dan nama sesuai profil Dicoding. Identitas diri wajib ditampilkan dalam elemen Aside.
-4. Menyusun layout dengan menggunakan teknik float atau flexbox.
+Ini adalah tugas submission course dicoding Belajar Membuat Front-End Web untuk Pemula. tugas adalah membuat sebuah website dengan persyaratan sebagai berikut :
+
+1. Mampu Menambahkan Data Buku baru.
+2. Memiliki minimal Dua Rak Buku. Yakni “Belum selesai dibaca” dan “Selesai dibaca”.
+3. Dapat Memindahkan Buku antar Rak.
+4. Dapat Menghapus Data Buku.
+5. Manfaatkan localStorage dalam Menyimpan Data Buku
+6. Aplikasi dapat berfungsi dengan baik (tidak terdapat bug, tidak mengalami force close, fungsionalitas aplikasi berjalan dengan baik dsb).
+
+cara menjalankan :
+1. jalankan file index.html di browser
